@@ -1,0 +1,84 @@
+.video  {
+  height: auto;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  box-sizing: border-box;
+}
+.a-img{
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  position:absolute;
+  margin: 150px 0 100px 0;
+  right: 0;
+  z-index: -1;
+  border-radius: 20px;
+  padding-bottom: 100px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+  margin-left: 50px;
+}
+
+.h1size {
+  margin-top: 70px;
+  color: #ffd883;
+  text-shadow: 0 0 30px #ffd883;
+}
+
+.lx {
+  font-size: 100px;
+  font-weight: bolder;
+  font-family: 'Asar', serif;
+}
+
+.navbar-brand {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bold;
+}
+.i-head {
+  margin-top: 150px;
+  font-family: 'Noto Serif', serif;
+}
+
+.a-head {
+  margin-top: 250px;
+  font-family: 'Noto Serif', serif;
+}
+.c-head {
+  margin-top: 300px;
+  font-family: 'Noto Serif', serif;
+}
+.item{
+  margin-top: 100px;
+  margin-bottom: auto;
+  margin-right: 30px;
+  display: flex;
+  box-shadow: 10px 10px 10px 10px #ffd883;
+}
+.para{
+  height:200px;
+  width: 350px;
+  display: flex;
+  text-align:right;
+  margin-top: 100px;
+  margin-left: 1050px;
+  font-size: 20px;
+  font-family: 'Noto Serif', serif;
+}
+
+.white{
+  color:#7c7676;
+  height: 50px;
+  box-shadow:  10px 10px 10px 10px #7c7676;
+  margin-top: 450px;
+}
